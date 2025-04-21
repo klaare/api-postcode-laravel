@@ -1,5 +1,5 @@
 {
-  "name": "api-postcode/api-postcode-laravel",
+  "name": "klaare/api-postcode-laravel",
   "description": "Laravel package for api-postcode",
   "keywords": ["laravel", "postcode", "api-postcode", "address", "api"],
   "homepage": "https://api-postcode.nl",
